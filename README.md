@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on completing my degree.
+- 🌱 I’m currently learning about machine learning's potential applications for financial markets.
+- 💬 Ask me about economics, travel, and literature!
+- 📫 How to reach me: jsz7fb@virginia.edu
+- 😄 Pronouns: she/her
+- 🌎 Language: English
